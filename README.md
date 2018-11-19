@@ -17,21 +17,22 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: ********\_\_********
+Vulnerability #1: **\*\*\*\***\_\_**\*\*\*\***
 
-Vulnerability #2: ********\_\_********
+Vulnerability #2: **\*\*\*\***\_\_**\*\*\*\***
 
 ## Green
 
-Vulnerability #1: ********\_\_********
+Vulnerability #1: **\*\*\*\***\_\_**\*\*\*\***
 
-Vulnerability #2: ********\_\_********
+Vulnerability #2: **\*\*\*\***\_\_**\*\*\*\***
 
 ## Red
 
-Vulnerability #1: ********\_\_********
+Vulnerability #1: Insecure Direct Object Reference (IDOR)
+<img src='IDOR.gif' title='IDOR' />
 
-Vulnerability #2: ********\_\_********
+Vulnerability #2: **\*\*\*\***\_\_**\*\*\*\***
 
 ## Notes
 
