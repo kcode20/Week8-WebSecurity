@@ -23,7 +23,8 @@ Vulnerability #2: **\*\*\*\***\_\_**\*\*\*\***
 
 ## Green
 
-Vulnerability #1: **\*\*\*\***\_\_**\*\*\*\***
+Vulnerability #1: User Enumeration
+<img src='UserEnumeration.gif' title='User Enumeration' />
 
 Vulnerability #2: **\*\*\*\***\_\_**\*\*\*\***
 
